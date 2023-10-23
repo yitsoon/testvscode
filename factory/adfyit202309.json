@@ -1,0 +1,9 @@
+{
+	"name": "adfyit202309",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ca70e468-dca9-4ac0-85f5-ea9af3e2235a",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
