@@ -1,5 +1,13 @@
 {
 	"name": "adfyit202309",
+	"properties": {
+		"globalParameters": {
+			"testglobal01": {
+				"type": "string",
+				"value": "test"
+			}
+		}
+	},
 	"location": "australiaeast",
 	"identity": {
 		"type": "SystemAssigned",
